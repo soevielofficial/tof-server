@@ -75,7 +75,8 @@
   },
   "cn": {
     "方舟演算": {
-      "Hostname": "123.57.217.236",
+      "IP Address": "123.57.217.236",
+      "Hostname": "None",
       "ASN": "37963",
       "ISP": "Aliyun Computing Co. Ltd",
       "Services": "Datacenter",
@@ -86,7 +87,8 @@
       "Longitude": "116.3971 (116° 23′ 49.57″ E)"
     },
     "重塑未来": {
-      "Hostname": "123.56.86.19",
+      "IP Address": "123.56.86.19",
+      "Hostname": "None",
       "ASN": "37963",
       "ISP": "Aliyun Computing Co. Ltd",
       "Services": "Datacenter",
@@ -97,7 +99,8 @@
       "Longitude": "116.3971 (116° 23′ 49.57″ E)"
     },
     "未来人类": {
-      "Hostname": "59.110.113.76",
+      "IP Address": "59.110.113.76",
+      "Hostname": "None",
       "ASN": "37963",
       "ISP": "Aliyun Computing Co. Ltd",
       "Services": "Datacenter",
@@ -108,7 +111,8 @@
       "Longitude": "116.3971 (116° 23′ 49.57″ E)"
     },
     "蔚色艾达": {
-      "Hostname": "39.96.163.203",
+      "IP Address": "39.96.163.203",
+      "Hostname": "None",
       "ASN": "37963",
       "ISP": "Aliyun Computing Co. Ltd",
       "Services": "Datacenter",
@@ -119,7 +123,8 @@
       "Longitude": "116.3971 (116° 23′ 49.57″ E)"
     },
     "时空回溯": {
-      "Hostname": "39.105.181.216",
+      "IP Address": "39.105.181.216",
+      "Hostname": "None",
       "ASN": "37963",
       "ISP": "Aliyun Computing Co. Ltd",
       "Services": "Datacenter",
